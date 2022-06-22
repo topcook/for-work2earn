@@ -1,0 +1,31 @@
+{
+  "name": "For Work2Earn",
+  "version": "1.0.0",
+  "description": "For Work2Earn",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "keywords": [
+    "hardhat",
+    "ethereum",
+    "hackathon"
+  ],
+  "author": "Nomic Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomiclabs/hardhat-hackathon-boilerplate/issues"
+  },
+  "homepage": "https://github.com/nomiclabs/hardhat-hackathon-boilerplate#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.2.0",
+    "ethereum-waffle": "^3.1.1",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.3.0",
+    "husky": "^4.2.5"
+  }
+}
